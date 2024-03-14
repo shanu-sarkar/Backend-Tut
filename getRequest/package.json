@@ -1,0 +1,19 @@
+{
+  "name": "getbackend",
+  "version": "1.0.0",
+  "description": "a besic to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nede"
+  ],
+  "author": "Shanu Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
